@@ -1,0 +1,17 @@
+/* ........name convention BEM.......*/
+
+/*............Block............*/
+*{
+    margin: 0;
+}
+
+
+/*...........elements...............*/
+
+
+
+/*...........modyfier..................*/
+.header__figure--img{
+    width: 100%;
+    height: 782px;
+}
