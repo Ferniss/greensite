@@ -3,7 +3,18 @@
 /*............Block............*/
 *{
     margin: 0;
+    color: grey;
+}
+.wrapper__flex{
+    display: flex;
 }
 /*...........elements...............*/
-
+.wrapper__top{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2em;
+}
+.bund{
+    margin-bottom: 7em;
+}
 /*...........modyfier..................*/
